@@ -1,6 +1,6 @@
 name: Villemorin
 favicon: null
-layout_spectrum: 0.7619918757118285
+layout_spectrum: 0.33453
 typography_spectrum: 0.46303
 title: Villemorin France 2012
 cta:
@@ -22,8 +22,8 @@ color:
     - '#877c84'
     - '#00c3fe'
     - '#dc0001'
-  brandStrength: 0.7241545321885496
-  lightness: 0.4375
+  brandStrength: 0.4375
+  lightness: 0.5
   saturation: 0.4707302644383162
   rhythmicContrast: 0.25
 purpose: []
